@@ -8,3 +8,6 @@ HeartLink seeks to address these gaps by providing a web-based application where
 
 Through HeartLink, users are empowered to reduce waste, embrace minimalism, and contribute to sustainability. By facilitating connections within communities, the platform strengthens community ties, a culture of sharing and fulfillment that makes giving and receiving items simple and rewarding.
 
+Architecture
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/da694265-c8f9-4b4c-b946-2570044158c9">
