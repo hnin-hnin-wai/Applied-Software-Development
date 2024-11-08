@@ -14,6 +14,7 @@ Architecture
 
 Class Diagram
 
-<img width="1000" alt="classDiagram2" src="https://github.com/user-attachments/assets/9b254595-aad8-4262-b746-193ffef8cb0c">
+<img width="1000" alt="classDiagram-v1" src="https://github.com/user-attachments/assets/ef728e8b-a417-43f5-a533-0a6c6a346428">
+
 
 
