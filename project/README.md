@@ -16,7 +16,13 @@ Architecture
 
 Class Diagram
 
-<img width="800" alt="classDiagram-v1" src="https://github.com/user-attachments/assets/ef728e8b-a417-43f5-a533-0a6c6a346428">
+<img width="800" alt="classDiagram-v1" src="https://github.com/user-attachments/assets/cc02d608-ff17-45f2-afdc-ab9f87f70e12">
+
+
+ER Diagram
+
+<img width="800" alt="ERDiagram-v1" src="https://github.com/user-attachments/assets/14febe48-4e95-457a-b6a7-4ef16a08d59d">
+
 
 
 
