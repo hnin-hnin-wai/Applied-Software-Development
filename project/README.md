@@ -20,8 +20,7 @@ Class Diagram
 
 ER Diagram
 
-<img width="1000" alt="architecture-v1" src="https://github.com/user-attachments/assets/6a076130-957a-465e-920d-d2863e6dc3fb">
-
+<img width="1000" alt="architecture-v1" src="https://github.com/user-attachments/assets/4dfd4fb1-884d-4c00-92f3-ff0db315e53d">
 
 
 
