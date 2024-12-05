@@ -10,17 +10,17 @@ Through HeartLink, users are empowered to reduce waste, embrace minimalism, and 
 
 Architecture
 
-<img width="800" alt="architecture-v1" src="https://github.com/user-attachments/assets/38637c5f-610b-418f-81e2-8406d3865676">
+<img width="1000" alt="architecture-v1" src="https://github.com/user-attachments/assets/38637c5f-610b-418f-81e2-8406d3865676">
 
 
 Class Diagram
 
-<img width="800" alt="classDiagram-v2" src="https://github.com/user-attachments/assets/b34858ba-b6ef-454c-952b-3a79eeefbada">
+![classDiagram_v3](https://github.com/user-attachments/assets/a304ba9a-5cf2-4ed0-a6a2-7820f39ff432)
 
 
 ER Diagram
 
-<img width="800" alt="ERDiagram-v1" src="https://github.com/user-attachments/assets/14febe48-4e95-457a-b6a7-4ef16a08d59d">
+<img width="1000" alt="ERDiagram-v1" src="https://github.com/user-attachments/assets/14febe48-4e95-457a-b6a7-4ef16a08d59d">
 
 
 
